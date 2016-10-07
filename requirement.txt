@@ -8,3 +8,4 @@ Flask-WTF==0.9.4
 Jinja2==2.7.1
 SQLAlchemy==0.8.4
 Werkzeug==0.9.4
+markdown2==2.3.1

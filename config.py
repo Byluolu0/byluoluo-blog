@@ -2,6 +2,8 @@ import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 class Config:
+	ARTICLE_DIR = basedir + '/articles'
+
 	@staticmethod
 	def init_app(app):
 		pass
